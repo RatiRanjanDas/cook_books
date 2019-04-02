@@ -3,9 +3,7 @@
 .chef/encrypted_data_bag_secret
 
 # Ruby
-.rake_test_cache
-.rvmrc
-.rbenv-version
+.rake_test_
 
 # Emacs
 *~
